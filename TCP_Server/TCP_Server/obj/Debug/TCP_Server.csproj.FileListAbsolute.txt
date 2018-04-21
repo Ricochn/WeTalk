@@ -1,0 +1,9 @@
+E:\VSPro\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+E:\VSPro\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+E:\VSPro\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+E:\VSPro\TCP_Server\TCP_Server\obj\Debug\TCP_Server.Form1.resources
+E:\VSPro\TCP_Server\TCP_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+E:\VSPro\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.GenerateResource.Cache
+E:\VSPro\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+E:\VSPro\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
+E:\VSPro\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\VSPro\TCP_Client\TCP_Client\bin\Debug\TCP_Client.exe.config
+E:\VSPro\TCP_Client\TCP_Client\bin\Debug\TCP_Client.exe
+E:\VSPro\TCP_Client\TCP_Client\bin\Debug\TCP_Client.pdb
+E:\VSPro\TCP_Client\TCP_Client\obj\Debug\TCP_Client.csprojResolveAssemblyReference.cache
+E:\VSPro\TCP_Client\TCP_Client\obj\Debug\TCP_Client.Form1.resources
+E:\VSPro\TCP_Client\TCP_Client\obj\Debug\TCP_Client.Properties.Resources.resources
+E:\VSPro\TCP_Client\TCP_Client\obj\Debug\TCP_Client.csproj.GenerateResource.Cache
+E:\VSPro\TCP_Client\TCP_Client\obj\Debug\TCP_Client.exe
+E:\VSPro\TCP_Client\TCP_Client\obj\Debug\TCP_Client.pdb
